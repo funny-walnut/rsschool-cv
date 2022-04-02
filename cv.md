@@ -1,6 +1,6 @@
 # Valeriya Zinoveva
 
-![photo](rsschool-cv\img\photo_2022-03-22_23-18-17.jpg)
+![photo](\rsschool-cv\img\photo_2022-03-22_23-18-17.jpg)
 ## Contacts
 
 * __Location:__ Togliatti, Russia
