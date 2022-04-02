@@ -1,19 +1,19 @@
 # Valeriya Zinoveva
-====
-![photo](\img\photo_2022-03-22_23-18-17.jpg)
+
+![photo](rsschool-cv\img\photo_2022-03-22_23-18-17.jpg)
 ## Contacts
-====
+
 * __Location:__ Togliatti, Russia
 * __Phone:__ 8 917-814-47-46
 * __Github:__ funny-walnut
 
 ## About me
-===
+
 For the last 6 months I have been doing automated testing in php.
 My goal is development in the frontend.
 
 ## Skills
-===
+
 * Codeception
 * Git
 * Postman
@@ -22,7 +22,7 @@ My goal is development in the frontend.
 * Jira
 
 ## Code example
-===
+
 
 ```c#
  public static int SumOfThe(int N, int[] data)
@@ -48,13 +48,13 @@ My goal is development in the frontend.
 ```
 
 ## Experiense
-===
+
 Automated testing 6 months (Codeception).
 
 ## Education
-===
+
 Test Automation Academy (Optimax Dev).
 
 ## English
-===
+
 B1 (I practice spoken language twice a week at the courses).
