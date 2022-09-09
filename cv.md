@@ -1,5 +1,6 @@
 Valeriya Zinoveva
 =================
+![photo](C:\rs-school\rsschool-cv\c4lEcs848yQ.jpg)
 # Contacts #
 * address: Erevan, Armenia
 * phone: +374 95219775
@@ -22,8 +23,9 @@ I started learning the frontend 1 month ago. Before that, I worked as QA enjinee
 ---
 # Courses #
 [Optimax Dev academy of automation testing](https://optimax.dev/academy/)
+
 ---
-Code example
-# Languages
-* English -(B1)
+# Code example #
+# Languages #
+* English - (B1)
 * Russian - native
