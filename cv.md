@@ -1,6 +1,6 @@
 Valeriya Zinoveva
 =================
-![photo](C:\rs-school\rsschool-cv\c4lEcs848yQ.jpg)
+![photo](rsschool-cv\img\c4lEcs848yQ.jpg)
 # Contacts #
 * address: Erevan, Armenia
 * phone: +374 95219775
