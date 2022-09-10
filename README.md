@@ -1,1 +1,1 @@
-# rsschool-cv
+https://funny-walnut.github.io/rsschool-cv/
